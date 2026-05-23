@@ -1,2 +1,3 @@
 # multi-armed-bandits
-Study notes about multi-armed bandits
+
+Notas de estudo sobre multi-armed bandits
